@@ -22,7 +22,7 @@ class UserStatus extends StatelessWidget {
                   shape: BoxShape.circle,
                   image: new DecorationImage(
                       fit: BoxFit.fill,
-                      image: new AssetImage("Assets/pic1.png")),
+                      image: new AssetImage("images/pic1.png")),
                 ),
               ),
               ClipOval(

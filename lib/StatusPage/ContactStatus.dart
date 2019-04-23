@@ -31,7 +31,7 @@ class ContactStatus extends StatelessWidget {
                   shape: BoxShape.circle,
                   image: new DecorationImage(
                       fit: BoxFit.fill,
-                      image: new AssetImage("Assets/$pic.png")),
+                      image: new AssetImage("images/$pic.png")),
                 ),
               ),
              /*  ClipOval(
